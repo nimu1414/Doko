@@ -25,6 +25,7 @@
 	<p><c:out value ="${mutter.userName }"/>
 		<c:out value ="${mutter.text }"/></p>
 	</c:forEach>
+	
 
 
 </body>
